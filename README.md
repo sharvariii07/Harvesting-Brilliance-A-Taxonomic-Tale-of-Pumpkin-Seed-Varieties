@@ -1,0 +1,2 @@
+# Harvesting-Brilliance-A-Taxonomic-Tale-of-Pumpkin-Seed-Varieties
+Pumpkin seeds, often overlooked despite their nutritional richness and culinary versatility, exhibit remarkable diversity across different cultivars. This project aims to explore and classify pumpkin seeds based on various morphological and genetic characteristics, shedding light on the intricacies of their taxonomy and potential applications. 
